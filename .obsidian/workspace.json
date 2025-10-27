@@ -11,10 +11,14 @@
             "id": "1a90ebc90238d0ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Greek Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greek Notes"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Klik sta Ellinika - A2/Page 24 - Με λένε Αλεξία.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Page 24 - Με λένε Αλεξία"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Klik sta Ellinika - A2/Page 24 - Με λένε Αλεξία.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Page 24 - Με λένε Αλεξία"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Klik sta Ellinika - A2/Page 24 - Με λένε Αλεξία.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Page 24 - Με λένε Αλεξία"
             }
           }
         ]
@@ -164,8 +171,11 @@
   },
   "active": "1a90ebc90238d0ec",
   "lastOpenFiles": [
-    "Greek Notes.md",
     "Klik sta Ellinika - A2/Page 24 - Με λένε Αλεξία.md",
+    "Klik sta Ellinika - A2/attachments/Pasted image 20251027211319.png",
+    "Klik sta Ellinika - A2/attachments",
+    "Pasted image 20251027211108.png",
+    "Greek Notes.md",
     "Klik sta Ellinika - A2"
   ]
 }
