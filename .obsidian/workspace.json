@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28348d80e13eee49",
+        "id": "48e19431105ed09f",
         "type": "tabs",
         "children": [
           {
-            "id": "1a90ebc90238d0ec",
+            "id": "1627abba6f56fe19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greek Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Greek Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -169,14 +165,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "1a90ebc90238d0ec",
+  "active": "1627abba6f56fe19",
   "lastOpenFiles": [
-    "Klik sta Ellinika - A2/aia521v3.urg~",
     "Klik sta Ellinika - A2/Page 24 - Με λένε Αλεξία.md",
-    "Klik sta Ellinika - A2/attachments/Pasted image 20251027211319.png",
+    "Klik sta Ellinika - A2/Pasted image 20251027211319.png",
+    "Klik sta Ellinika - A2/Pasted image 20251027225057.png",
+    "Klik sta Ellinika - A2/Page 19 - Αντώνης.md",
+    "Klik sta Ellinika - A2/Page 19 - Νεκτάριος.md",
+    "Klik sta Ellinika - A2/Page 18 - Γεράσιμος.md",
+    "Greek Notes.md",
+    "Klik sta Ellinika - A2/aia521v3.urg~",
     "Klik sta Ellinika - A2/attachments",
     "Pasted image 20251027211108.png",
-    "Greek Notes.md",
     "Klik sta Ellinika - A2"
   ]
 }
