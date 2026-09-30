@@ -23,6 +23,7 @@ If the sentence is long, break it up. The purpose is to learn words, not memoris
 
 - One row tests one word. That word is the cloze, and it must appear in the Greek exactly, as its own word.
 - Every word that appears in the Greek is the word to guess once. `Διάλεξε` in two lines is still one word, so it is the cloze on one of them and not on the other. A different form that also appears (`λέξη` and `λέξεις`, `μύτη` and `μύτης`) is guessed once each. Capitalisation does not make a second word.
+- A token made only of digits, such as `20` or `30`, is not a word. Leave it in the sentence. Do not make it the cloze. Number words written in Greek, such as `ένα`, `δύο`, `τρεις`, and `πέντε`, are still guessed once each.
 - Keep each Greek line to at most 10 words. Break at a clause. Repeat the subject from the same source sentence when a piece would not stand alone. Do not invent facts that are not in the source.
 - Order inside a lesson: sentences, then phrases, then single words. Append the next lesson after the previous one in the same order.
 - Skip English-only lines (times, email, English aims). They are not Greek words to test.

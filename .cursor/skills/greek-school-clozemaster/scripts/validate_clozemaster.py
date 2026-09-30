@@ -28,8 +28,10 @@ def main(path: Path) -> int:
             continue
         greek, english, cloze, _pron, note = parts
         rows += 1
-        words = [w.casefold() for w in TOKEN.findall(greek)]
-        if cloze.casefold() not in words:
+        words = [w.casefold() for w in TOKEN.findall(greek) if not w.isdigit()]
+        if cloze.isdigit():
+            errors.append(f"line {n}: digits are not a word to guess: {cloze}")
+        elif cloze.casefold() not in words:
             errors.append(f"line {n}: cloze {cloze!r} is not a whole word in the Greek")
         if len(greek.split()) > MAX_WORDS:
             errors.append(f"line {n}: {len(greek.split())} words, break it up: {greek}")
