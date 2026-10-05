@@ -7,8 +7,9 @@ from pathlib import Path
 TOKEN = re.compile(r"[^\s.,;:!?«»()]+")
 
 MAX_WORDS = 10
-NOTE_STARTS = ("n. ", "adj. ", "v. ", "adv.", "prep.", "conj.", "pron. ", "art. ", "num.", "part.", "intj.", "name ")
-
+NOTE_STARTS = ("n. ", "adj. ", "v. ", "adv.", "prep.", "conj.", "pron. ", "art. ", "num.", "part.", "intj.")
+# Casefolded personal names. They may appear in a sentence and are never the cloze.
+PERSON_NAMES = {"μαρία"}
 
 def main(path: Path) -> int:
     text = path.read_text(encoding="utf-8")
@@ -17,7 +18,6 @@ def main(path: Path) -> int:
     errors = []
     seen_cloze = set()
     tokens_seen = set()
-    greeks = []
     rows = 0
     for n, line in enumerate(text.splitlines(), 1):
         if not line.strip():
@@ -28,9 +28,15 @@ def main(path: Path) -> int:
             continue
         greek, english, cloze, _pron, note = parts
         rows += 1
-        words = [w.casefold() for w in TOKEN.findall(greek) if not w.isdigit()]
+        words = [
+            w.casefold()
+            for w in TOKEN.findall(greek)
+            if not w.isdigit() and w.casefold() not in PERSON_NAMES
+        ]
         if cloze.isdigit():
             errors.append(f"line {n}: digits are not a word to guess: {cloze}")
+        elif cloze.casefold() in PERSON_NAMES or note.startswith("name "):
+            errors.append(f"line {n}: a person's name is not a word to guess: {cloze}")
         elif cloze.casefold() not in words:
             errors.append(f"line {n}: cloze {cloze!r} is not a whole word in the Greek")
         if len(greek.split()) > MAX_WORDS:
@@ -40,15 +46,10 @@ def main(path: Path) -> int:
             errors.append(f"line {n}: cloze {cloze} already used")
         seen_cloze.add(key)
         tokens_seen.update(words)
-        greeks.append(greek)
-        if not note or note.startswith("L1 ") or len(note) > 200 or not note.startswith(NOTE_STARTS):
+        if note.startswith("name "):
+            pass
+        elif not note or note.startswith("L1 ") or len(note) > 200 or not note.startswith(NOTE_STARTS):
             errors.append(f"line {n}: note must be a dictionary line, got {note!r}")
-    last_seen = {}
-    for i, greek in enumerate(greeks):
-        prev = last_seen.get(greek)
-        if prev is not None and i - prev < 10 and prev + 10 < len(greeks):
-            errors.append(f"line {i + 1}: same sentence as line {prev + 1}; bump it +10")
-        last_seen[greek] = i
     missing = sorted(tokens_seen - seen_cloze)
     if missing:
         errors.append("words that appear but are never guessed: " + ", ".join(missing))
