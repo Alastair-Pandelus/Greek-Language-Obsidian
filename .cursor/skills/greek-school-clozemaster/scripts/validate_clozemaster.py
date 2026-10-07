@@ -41,6 +41,8 @@ def main(path: Path) -> int:
             errors.append(f"line {n}: cloze {cloze!r} is not a whole word in the Greek")
         if len(greek.split()) > MAX_WORDS:
             errors.append(f"line {n}: {len(greek.split())} words, break it up: {greek}")
+        if len(words) < 2:
+            errors.append(f"line {n}: a bare word needs a sentence")
         key = cloze.casefold()
         if key in seen_cloze:
             errors.append(f"line {n}: cloze {cloze} already used")

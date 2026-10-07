@@ -1,6 +1,6 @@
 Μαζί θα μάθουμε ελληνικά.	Together we will learn Greek.	ελληνικά		n. nt. pl. τα ελληνικά
 Καλωσήρθατε στην τάξη.	Welcome to the class.	Καλωσήρθατε		intj. καλώς ήρθατε
-Γνωριζόμαστε.	We are getting to know each other.	Γνωριζόμαστε		v. γνωρίζομαι · 1 pl.
+Γνωριζόμαστε στην τάξη.	We are getting to know each other in class.	Γνωριζόμαστε		v. γνωρίζομαι · 1 pl.
 Μαθαίνουμε μαζί.	We are learning together.	Μαθαίνουμε		v. μαθαίνω · 1 pl.
 Περπατήστε στην τάξη.	Walk around the classroom.	Περπατήστε		v. περπατώ · imp. pl.
 Βρείτε ένα άτομο.	Find one person.	άτομο		n. nt. sg. το άτομο, pl. τα άτομα
@@ -236,66 +236,264 @@
 σαν τόξο	like a bow	σαν		prep.
 τα ανθρώπινα πρόσωπα	human faces	πρόσωπα		n. nt. sg. το πρόσωπο, pl. τα πρόσωπα
 Βρες κάποιον που	Find someone who	που		pron. rel.
-μάθημα	lesson	μάθημα		n. nt. sg. το μάθημα, pl. τα μαθήματα
+Έχουμε μάθημα στην τάξη.	We have a lesson in class.	μάθημα		n. nt. sg. το μάθημα, pl. τα μαθήματα
 κι εμείς καλύτερα	and we lived even better	εμείς		pron. 1 pl. nom.
-στόχος	aim	στόχος		n. m. sg. ο στόχος, pl. οι στόχοι
-μαλλιά	hair	μαλλιά		n. nt. sg. το μαλλί, pl. τα μαλλιά
-μάτια	eyes	μάτια		n. nt. sg. το μάτι, pl. τα μάτια
+Ο στόχος είναι απλός.	The aim is simple.	στόχος		n. m. sg. ο στόχος, pl. οι στόχοι
+Τα μαλλιά είναι μακριά.	The hair is long.	μαλλιά		n. nt. sg. το μαλλί, pl. τα μαλλιά
+Τα μάτια είναι πράσινα.	The eyes are green.	μάτια		n. nt. sg. το μάτι, pl. τα μάτια
 έζησαν αυτοί καλά	they lived well	καλά		adv.
-μουσική	music	μουσική		n. f. sg. η μουσική
-αρέσει	he or she likes	αρέσει		v. αρέσω · 3 sg.
-κοπέλα	girl	κοπέλα		n. f. sg. η κοπέλα, pl. οι κοπέλες
-άντρας	man	άντρας		n. m. sg. ο άντρας, pl. οι άντρες
-σύμβολο	symbol	σύμβολο		n. nt. sg. το σύμβολο, pl. τα σύμβολα
-δύναμη	strength	δύναμη		n. f. sg. η δύναμη, pl. οι δυνάμεις
-κουνέλι	rabbit	κουνέλι		n. nt. sg. το κουνέλι, pl. τα κουνέλια
-πρώτος	first	πρώτος		adj. πρώτος, -η, -ο
-δεύτερος	second	δεύτερος		adj. δεύτερος, -η, -ο
-τρίτος	third	τρίτος		adj. τρίτος, -η, -ο
-τρεις	three	τρεις		num.
-εύκολα	easily	εύκολα		adv.
-πιστός	loyal	πιστός		adj. πιστός, -ή, -ό
-αρχή	beginning	αρχή		n. f. sg. η αρχή, pl. οι αρχές
-αρχικός	initial	αρχικός		adj. αρχικός, -ή, -ό
-τέλος	end	τέλος		n. nt. sg. το τέλος
-τελικός	final	τελικός		adj. τελικός, -ή, -ό
-πληροφορώ	I inform	πληροφορώ		v. πληροφορώ
-πληροφοριακός	informational	πληροφοριακός		adj. πληροφοριακός, -ή, -ό
-συμβολίζω	I symbolize	συμβολίζω		v. συμβολίζω
-συμβολικός	symbolic	συμβολικός		adj. συμβολικός, -ή, -ό
-ευαισθησία	sensitivity	ευαισθησία		n. f. sg. η ευαισθησία
-φαντάζομαι	I imagine	φαντάζομαι		v. φαντάζομαι
-φανταστικός	imaginative	φανταστικός		adj. φανταστικός, -ή, -ό
-σκέφτομαι	I think	σκέφτομαι		v. σκέφτομαι
-σκεπτικός	thoughtful	σκεπτικός		adj. σκεπτικός, -ή, -ό
-ωριμάζω	I mature	ωριμάζω		v. ωριμάζω
-ώριμος	mature	ώριμος		adj. ώριμος, -η, -ο
-σημαίνω	I mean	σημαίνω		v. σημαίνω
-σημαντικός	important	σημαντικός		adj. σημαντικός, -ή, -ό
-ευγένεια	politeness	ευγένεια		n. f. sg. η ευγένεια
-σεμνότητα	modesty	σεμνότητα		n. f. sg. η σεμνότητα
-απλότητα	simplicity	απλότητα		n. f. sg. η απλότητα
-δυναμώνω	I grow stronger	δυναμώνω		v. δυναμώνω
-νευρικός	nervous	νευρικός		adj. νευρικός, -ή, -ό
-ηρεμώ	I calm down	ηρεμώ		v. ηρεμώ
-ηρεμία	calmness	ηρεμία		n. f. sg. η ηρεμία
-ευκολία	ease	ευκολία		n. f. sg. η ευκολία
-τελειώνω	I finish	τελειώνω		v. τελειώνω
-φτάνω	I reach	φτάνω		v. φτάνω
-ξεκινάω	I start	ξεκινάω		v. ξεκινάω
-δείχνω	I show	δείχνω		v. δείχνω
-έχω	I have	έχω		v. έχω
-είμαι	I am	είμαι		v. είμαι
-πιστεύω	I believe	πιστεύω		v. πιστεύω
-αρχίζω	I start	αρχίζω		v. αρχίζω
-πληροφορία	information	πληροφορία		n. f. sg. η πληροφορία, pl. οι πληροφορίες
-ανωριμότητα	immaturity	ανωριμότητα		n. f. sg. η ανωριμότητα
-εξυπνάδα	cleverness	εξυπνάδα		n. f. sg. η εξυπνάδα
-έξυπνος	clever	έξυπνος		adj. έξυπνος, -η, -ο
-ικανότητα	ability	ικανότητα		n. f. sg. η ικανότητα, pl. οι ικανότητες
-ικανός	capable	ικανός		adj. ικανός, -ή, -ό
-ήρεμος	calm	ήρεμος		adj. ήρεμος, -η, -ο
-εύκολος	easy	εύκολος		adj. εύκολος, -η, -ο
-ρήμα	verb	ρήμα		n. nt. sg. το ρήμα, pl. τα ρήματα
-ουσιαστικό	noun	ουσιαστικό		n. nt. sg. το ουσιαστικό, pl. τα ουσιαστικά
-επίθετο	adjective	επίθετο		n. nt. sg. το επίθετο, pl. τα επίθετα
+Αγαπάει τη μουσική.	She loves the music.	μουσική		n. f. sg. η μουσική
+Της αρέσει η μουσική.	She likes the music.	αρέσει		v. αρέσω · 3 sg.
+Η κοπέλα διαβάζει.	The girl is reading.	κοπέλα		n. f. sg. η κοπέλα, pl. οι κοπέλες
+Ο άντρας διαβάζει.	The man is reading.	άντρας		n. m. sg. ο άντρας, pl. οι άντρες
+Είναι ένα σύμβολο.	It is a symbol.	σύμβολο		n. nt. sg. το σύμβολο, pl. τα σύμβολα
+Έχει μεγάλη δύναμη.	She has great strength.	δύναμη		n. f. sg. η δύναμη, pl. οι δυνάμεις
+Το κουνέλι είναι μικρό.	The rabbit is small.	κουνέλι		n. nt. sg. το κουνέλι, pl. τα κουνέλια
+Είναι ο πρώτος.	He is the first.	πρώτος		adj. πρώτος, -η, -ο
+Είναι ο δεύτερος.	He is the second.	δεύτερος		adj. δεύτερος, -η, -ο
+Είναι ο τρίτος.	He is the third.	τρίτος		adj. τρίτος, -η, -ο
+Έχω τρεις χαρακτήρες.	I have three characters.	τρεις		num.
+Διαβάζει πολύ εύκολα.	She reads very easily.	εύκολα		adv.
+Ο άντρας είναι πιστός.	The man is loyal.	πιστός		adj. πιστός, -ή, -ό
+Είναι η αρχή.	It is the beginning.	αρχή		n. f. sg. η αρχή, pl. οι αρχές
+Ο αρχικός στόχος είναι σημαντικός.	The initial aim is important.	αρχικός		adj. αρχικός, -ή, -ό
+Είναι το τέλος.	It is the end.	τέλος		n. nt. sg. το τέλος
+Είναι ο τελικός.	He is the final one.	τελικός		adj. τελικός, -ή, -ό
+Σε πληροφορώ για την τάξη.	I inform you about the class.	πληροφορώ		v. πληροφορώ
+Ο στόχος είναι πληροφοριακός.	The aim is informational.	πληροφοριακός		adj. πληροφοριακός, -ή, -ό
+Συμβολίζω την πίστη.	I symbolize faith.	Συμβολίζω		v. συμβολίζω
+Ο χαρακτήρας είναι συμβολικός.	The character is symbolic.	συμβολικός		adj. συμβολικός, -ή, -ό
+Δείχνει ευαισθησία.	She shows sensitivity.	ευαισθησία		n. f. sg. η ευαισθησία
+Δεν το φαντάζομαι.	I cannot imagine it.	φαντάζομαι		v. φαντάζομαι
+Είναι φανταστικός.	He is fantastic.	φανταστικός		adj. φανταστικός, -ή, -ό
+Το σκέφτομαι.	I am thinking about it.	σκέφτομαι		v. σκέφτομαι
+Είναι σκεπτικός.	He is thoughtful.	σκεπτικός		adj. σκεπτικός, -ή, -ό
+Ωριμάζω με τον καιρό.	I mature with time.	Ωριμάζω		v. ωριμάζω
+Ο άνθρωπος είναι ώριμος.	The person is mature.	ώριμος		adj. ώριμος, -η, -ο
+Σημαίνω πολύ για την οικογένεια.	I mean a lot to the family.	Σημαίνω		v. σημαίνω
+Ο στόχος είναι σημαντικός.	The aim is important.	σημαντικός		adj. σημαντικός, -ή, -ό
+Δείχνει ευγένεια.	She shows politeness.	ευγένεια		n. f. sg. η ευγένεια
+Έχει σεμνότητα.	She has modesty.	σεμνότητα		n. f. sg. η σεμνότητα
+Η απλότητα έχει σημασία.	Simplicity matters.	απλότητα		n. f. sg. η απλότητα
+Δυναμώνω με τον καιρό.	I grow stronger with time.	Δυναμώνω		v. δυναμώνω
+Είμαι νευρικός.	I am nervous.	νευρικός		adj. νευρικός, -ή, -ό
+Ηρεμώ στην τάξη.	I calm down in class.	Ηρεμώ		v. ηρεμώ
+Έχω ηρεμία.	I have calm.	ηρεμία		n. f. sg. η ηρεμία
+Διαβάζει με ευκολία.	She reads with ease.	ευκολία		n. f. sg. η ευκολία
+Τελειώνω το μάθημα.	I finish the lesson.	Τελειώνω		v. τελειώνω
+Φτάνω στην τάξη.	I arrive in class.	Φτάνω		v. φτάνω
+Ξεκινάω από την αρχή.	I start from the beginning.	Ξεκινάω		v. ξεκινάω
+Δείχνω τις φωτογραφίες.	I show the photos.	Δείχνω		v. δείχνω
+Έχω μια οικογένεια.	I have a family.	Έχω		v. έχω
+Είμαι καλά.	I am well.	Είμαι		v. είμαι
+Το πιστεύω.	I believe it.	πιστεύω		v. πιστεύω
+Αρχίζω την τάξη.	I start the class.	Αρχίζω		v. αρχίζω
+Έχω μια πληροφορία.	I have a piece of information.	πληροφορία		n. f. sg. η πληροφορία, pl. οι πληροφορίες
+Δείχνει ανωριμότητα.	She shows immaturity.	ανωριμότητα		n. f. sg. η ανωριμότητα
+Έχει μεγάλη εξυπνάδα.	She has great cleverness.	εξυπνάδα		n. f. sg. η εξυπνάδα
+Είναι έξυπνος.	He is clever.	έξυπνος		adj. έξυπνος, -η, -ο
+Έχει μεγάλη ικανότητα.	She has great ability.	ικανότητα		n. f. sg. η ικανότητα, pl. οι ικανότητες
+Ο άνθρωπος είναι ικανός.	The person is capable.	ικανός		adj. ικανός, -ή, -ό
+Είμαι ήρεμος.	I am calm.	ήρεμος		adj. ήρεμος, -η, -ο
+Ο στόχος είναι εύκολος.	The aim is easy.	εύκολος		adj. εύκολος, -η, -ο
+Είναι το ρήμα.	It is the verb.	ρήμα		n. nt. sg. το ρήμα, pl. τα ρήματα
+Είναι το ουσιαστικό.	It is the noun.	ουσιαστικό		n. nt. sg. το ουσιαστικό, pl. τα ουσιαστικά
+Είναι το επίθετο.	It is the adjective.	επίθετο		n. nt. sg. το επίθετο, pl. τα επίθετα
+Νομίζω και πιστεύω.	I think and I believe.	Νομίζω		v. νομίζω
+Είναι πολύ σημαντικό.	It is very important.	σημαντικό		adj. σημαντικός, -ή, -ό · n. sg.
+Πόσο μακριά ή κοντά είναι μεταξύ τους;	How far or near are they from each other?	μεταξύ		prep.
+Ούτε μεγάλο ούτε μικρό.	Neither big nor small.	ούτε		conj.
+Βγαίνω προς τα έξω.	I go outside.	Βγαίνω		v. βγαίνω
+Βγαίνω προς τα έξω.	I go outside.	έξω		adv.
+Ο άνθρωπος που νευριάζει εύκολα.	The person who gets nervous easily.	νευριάζει		v. νευριάζω · 3 sg.
+Πόσο μεγάλο είναι κάτι, οι διαστάσεις.	How big something is, the dimensions.	κάτι		pron. n. sg.
+Πόσο μεγάλο είναι κάτι, οι διαστάσεις.	How big something is, the dimensions.	διαστάσεις		n. f. pl. η διάσταση, pl. οι διαστάσεις
+Ο άνθρωπος που δεν φοβάται.	The person who is not afraid.	φοβάται		v. φοβάμαι · 3 sg.
+Ενώστε τις λέξεις με αντίθετη σημασία.	Join the words with the opposite meaning.	Ενώστε		v. ενώνω · imp. pl.
+Ενώστε τις λέξεις με αντίθετη σημασία.	Join the words with the opposite meaning.	αντίθετη		adj. αντίθετος, -η, -ο · f. sg.
+Κάντε προτάσεις.	Make sentences.	Κάντε		v. κάνω · imp. pl.
+Λέξεις που μπορεί να σας βοηθήσουν.	Words that can help you.	μπορεί		v. μπορεί
+Λέξεις που μπορεί να σας βοηθήσουν.	Words that can help you.	βοηθήσουν		v. βοηθώ · 3 pl.
+Ποιος είναι;	Who is he?	Ποιος		pron. m. sg. nom.
+Ποια είναι;	Who is she?	Ποια		pron. f. sg. nom.
+Νομίζω ότι είναι.	I think that he is.	ότι		conj.
+Ένα ακόμα στοιχείο.	One more detail.	ακόμα		adv.
+Ένα ακόμα στοιχείο.	One more detail.	στοιχείο		n. nt. sg. το στοιχείο, pl. τα στοιχεία
+Με γένια.	With a beard.	γένια		n. nt. pl. το γένι, pl. τα γένια
+Ένα άτομο που ξεχωρίζει για μένα.	A person who stands out for me.	ξεχωρίζει		v. ξεχωρίζω · 3 sg.
+Ένα άτομο που ξεχωρίζει για μένα.	A person who stands out for me.	μένα		pron. acc.
+Γράψε ένα κείμενο λέξεων για ένα άτομο που γνωρίζεις καλά.	Write a text of words about a person you know well.	Γράψε		v. γράφω · imp. sg.
+Γράψε ένα κείμενο λέξεων για ένα άτομο που γνωρίζεις καλά.	Write a text of words about a person you know well.	κείμενο		n. nt. sg. το κείμενο, pl. τα κείμενα
+Γράψε ένα κείμενο λέξεων για ένα άτομο που γνωρίζεις καλά.	Write a text of words about a person you know well.	λέξεων		n. f. pl. η λέξη, pl. οι λέξεις · gen. pl.
+Γράψε ένα κείμενο λέξεων για ένα άτομο που γνωρίζεις καλά.	Write a text of words about a person you know well.	γνωρίζεις		v. γνωρίζω · 2 sg.
+Μπορεί να είναι φίλος ή φίλη.	It can be a male friend or a female friend.	φίλος		n. m. sg. ο φίλος, pl. οι φίλοι
+Μπορεί να είναι φίλος ή φίλη.	It can be a male friend or a female friend.	φίλη		n. f. sg. η φίλη, pl. οι φίλες
+Είναι συγγενής ή συνάδελφος.	He is a relative or a colleague.	συγγενής		n. m. sg. ο συγγενής, pl. οι συγγενείς
+Είναι συγγενής ή συνάδελφος.	He is a relative or a colleague.	συνάδελφος		n. m. sg. ο συνάδελφος, pl. οι συνάδελφοι
+Είναι άλλο σημαντικό πρόσωπο στη ζωή σου.	He is another important person in your life.	άλλο		pron. n. sg.
+Είναι άλλο σημαντικό πρόσωπο στη ζωή σου.	He is another important person in your life.	ζωή		n. f. sg. η ζωή, pl. οι ζωές
+Είναι άλλο σημαντικό πρόσωπο στη ζωή σου.	He is another important person in your life.	σου		pron. sg.
+Στο κείμενό σου γράψε.	Write in your text.	κείμενό		n. nt. sg. το κείμενο · acc. sg.
+Πώς γνωριστήκατε;	How did you meet?	Πώς		adv.
+Πώς γνωριστήκατε;	How did you meet?	γνωριστήκατε		v. γνωρίζομαι · 2 pl. past
+Πώς είναι η εξωτερική εμφάνιση;	What is his outward appearance like?	εξωτερική		adj. εξωτερικός, -ή, -ό · f. sg.
+Πώς είναι η εξωτερική εμφάνιση;	What is his outward appearance like?	εμφάνιση		n. f. sg. η εμφάνιση, pl. οι εμφανίσεις
+Τα βασικά χαρακτηριστικά του χαρακτήρα.	The basic traits of the character.	βασικά		adj. βασικός, -ή, -ό · n. pl.
+Δώσε ένα παράδειγμα.	Give an example.	Δώσε		v. δίνω · imp. sg.
+Δώσε ένα παράδειγμα.	Give an example.	παράδειγμα		n. nt. sg. το παράδειγμα, pl. τα παραδείγματα
+Τι σου αρέσει περισσότερο σε αυτό το άτομο και γιατί;	What do you like most about this person and why?	Τι		pron. n. sg.
+Τι σου αρέσει περισσότερο σε αυτό το άτομο και γιατί;	What do you like most about this person and why?	περισσότερο		adv.
+Τι σου αρέσει περισσότερο σε αυτό το άτομο και γιατί;	What do you like most about this person and why?	αυτό		pron. n. sg.
+Τι σου αρέσει περισσότερο σε αυτό το άτομο και γιατί;	What do you like most about this person and why?	γιατί		conj.
+Χρήσιμες φράσεις.	Useful phrases.	Χρήσιμες		adj. χρήσιμος, -η, -ο · f. pl.
+Χρήσιμες φράσεις.	Useful phrases.	φράσεις		n. f. pl. η φράση, pl. οι φράσεις
+Είναι αρκετά.	He is quite so.	αρκετά		adv.
+Θα έλεγα ότι είναι.	I would say that he is.	έλεγα		v. λέω · past
+Μερικές φορές μπορεί να είναι.	Sometimes he can be.	Μερικές		adj. μερικός, -ή, -ό · f. pl.
+Μερικές φορές μπορεί να είναι.	Sometimes he can be.	φορές		n. f. pl. η φορά, pl. οι φορές
+Αυτό που μου αρέσει.	What I like.	μου		pron. sg.
+Παρόλο που.	Even though.	Παρόλο		conj.
+Επειδή είναι καλά.	Because he is well.	Επειδή		conj.
+Μόλις γνωρίσατε τον έρωτα.	You have just met love.	Μόλις		conj.
+Μόλις γνωρίσατε τον έρωτα.	You have just met love.	γνωρίσατε		v. γνωρίζω · 2 pl. past
+Μόλις γνωρίσατε τον έρωτα.	You have just met love.	έρωτα		n. m. sg. ο έρωτας · acc. sg.
+Της ζωής σας.	Of your life.	ζωής		n. f. sg. η ζωή · gen. sg.
+Δεν ξέρετε τι άνθρωπος είναι.	You do not know what person he is.	ξέρετε		v. ξέρω · 2 pl.
+Είστε διευθυντής εταιρείας.	You are a company director.	Είστε		v. είμαι · 2 pl.
+Είστε διευθυντής εταιρείας.	You are a company director.	διευθυντής		n. m. sg. ο διευθυντής, pl. οι διευθυντές
+Είστε διευθυντής εταιρείας.	You are a company director.	εταιρείας		n. f. sg. η εταιρεία · gen. sg.
+Θέλετε να πάρετε έναν καινούριο υπάλληλο.	You want to hire a new employee.	Θέλετε		v. θέλω · 2 pl.
+Θέλετε να πάρετε έναν καινούριο υπάλληλο.	You want to hire a new employee.	πάρετε		v. παίρνω · 2 pl.
+Θέλετε να πάρετε έναν καινούριο υπάλληλο.	You want to hire a new employee.	καινούριο		adj. καινούριος, -α, -ο · m. sg. acc.
+Θέλετε να πάρετε έναν καινούριο υπάλληλο.	You want to hire a new employee.	υπάλληλο		n. m. sg. ο υπάλληλος · acc. sg.
+Δεν γνωρίζετε τον χαρακτήρα.	You do not know the character.	γνωρίζετε		v. γνωρίζω · 2 pl.
+Πώς θα καταλάβετε τον χαρακτήρα;	How will you understand the character?	καταλάβετε		v. καταλαβαίνω · 2 pl.
+Δείτε παρακάτω.	See below.	Δείτε		v. βλέπω · imp. pl.
+Δείτε παρακάτω.	See below.	παρακάτω		adv.
+Μπορείτε να καταλάβετε.	You can understand.	Μπορείτε		v. μπορώ · 2 pl.
+Το πρόσωπο που σας ενδιαφέρει.	The person who interests you.	ενδιαφέρει		v. ενδιαφέρω · 3 sg.
+Δείτε με προσοχή.	Look carefully.	προσοχή		n. f. sg. η προσοχή
+Προσέξτε το μέτωπο.	Notice the forehead.	Προσέξτε		v. προσέχω · imp. pl.
+Τις βλεφαρίδες.	The eyelashes.	βλεφαρίδες		n. f. pl. η βλεφαρίδα, pl. οι βλεφαρίδες
+Ακόμη και το χαμόγελο.	Even the smile.	Ακόμη		adv.
+Ακόμη και το χαμόγελο.	Even the smile.	χαμόγελο		n. nt. sg. το χαμόγελο, pl. τα χαμόγελα
+Δώστε χαρτί και μολύβι.	Give paper and a pencil.	Δώστε		v. δίνω · imp. pl.
+Δώστε χαρτί και μολύβι.	Give paper and a pencil.	χαρτί		n. nt. sg. το χαρτί, pl. τα χαρτιά
+Δώστε χαρτί και μολύβι.	Give paper and a pencil.	μολύβι		n. nt. sg. το μολύβι, pl. τα μολύβια
+Ζητήστε του να γράψει.	Ask him to write.	Ζητήστε		v. ζητώ · imp. pl.
+Ζητήστε του να γράψει.	Ask him to write.	γράψει		v. γράφω · 3 sg.
+Παρατηρήστε τον γραφικό χαρακτήρα.	Observe the handwritten character.	Παρατηρήστε		v. παρατηρώ · imp. pl.
+Παρατηρήστε τον γραφικό χαρακτήρα.	Observe the handwritten character.	γραφικό		adj. γραφικός, -ή, -ό · m. sg. acc.
+Της καρδιάς και της ψυχής.	Of the heart and of the soul.	καρδιάς		n. f. sg. η καρδιά · gen. sg.
+Της καρδιάς και της ψυχής.	Of the heart and of the soul.	ψυχής		n. f. sg. η ψυχή · gen. sg.
+Ειδικά αν θέλετε να ρωτήσετε για τη δουλειά.	Especially if you want to ask about the job.	Ειδικά		adv.
+Ειδικά αν θέλετε να ρωτήσετε για τη δουλειά.	Especially if you want to ask about the job.	ρωτήσετε		v. ρωτώ · 2 pl.
+Ειδικά αν θέλετε να ρωτήσετε για τη δουλειά.	Especially if you want to ask about the job.	δουλειά		n. f. sg. η δουλειά, pl. οι δουλειές
+Το επάγγελμα είναι ένας παράγοντας.	The profession is a factor.	επάγγελμα		n. nt. sg. το επάγγελμα, pl. τα επαγγέλματα
+Το επάγγελμα είναι ένας παράγοντας.	The profession is a factor.	παράγοντας		n. m. sg. ο παράγοντας, pl. οι παράγοντες
+Διαμορφώνει τον χαρακτήρα.	It shapes the character.	Διαμορφώνει		v. διαμορφώνω · 3 sg.
+Είναι ένας άνθρωπος.	He is a person.	ένας		num. m. sg.
+Είναι ένας καθηγητής.	He is a teacher.	καθηγητής		n. m. sg. ο καθηγητής, pl. οι καθηγητές
+Είναι ένας επιχειρηματίας.	He is a businessman.	επιχειρηματίας		n. m. sg. ο επιχειρηματίας, pl. οι επιχειρηματίες
+Είναι ένας καπετάνιος.	He is a captain.	καπετάνιος		n. m. sg. ο καπετάνιος, pl. οι καπετάνιοι
+Είναι ένας ναύτης.	He is a sailor.	ναύτης		n. m. sg. ο ναύτης, pl. οι ναύτες
+Είναι ένας γιατρός.	He is a doctor.	γιατρός		n. m. sg. ο γιατρός, pl. οι γιατροί
+Είναι ένας πιλότος.	He is a pilot.	πιλότος		n. m. sg. ο πιλότος, pl. οι πιλότοι
+Είναι ένας δικηγόρος.	He is a lawyer.	δικηγόρος		n. m. sg. ο δικηγόρος, pl. οι δικηγόροι
+Κάνετε το τεστ.	You do the test.	Κάνετε		v. κάνω · 2 pl.
+Κάνετε το τεστ.	You do the test.	τεστ		n. nt. sg. το τεστ, pl. τα τεστ
+Ανακαλύψτε τη σκέψη.	Discover the thought.	Ανακαλύψτε		v. ανακαλύπτω · imp. pl.
+Ανδρών και γυναικών.	Of men and of women.	Ανδρών		n. m. pl. ο άνδρας, pl. οι άνδρες · gen. pl.
+Ανδρών και γυναικών.	Of men and of women.	γυναικών		n. f. pl. η γυναίκα, pl. οι γυναίκες · gen. pl.
+Η μέθοδος που προτείνουμε βοηθάει.	The method we suggest helps.	μέθοδος		n. f. sg. η μέθοδος, pl. οι μέθοδοι
+Η μέθοδος που προτείνουμε βοηθάει.	The method we suggest helps.	προτείνουμε		v. προτείνω · 1 pl.
+Η μέθοδος που προτείνουμε βοηθάει.	The method we suggest helps.	βοηθάει		v. βοηθώ · 3 sg.
+Ο μόνος σίγουρος δρόμος.	The only sure way.	μόνος		adj. μόνος, -η, -ο
+Ο μόνος σίγουρος δρόμος.	The only sure way.	σίγουρος		adj. σίγουρος, -η, -ο
+Ο μόνος σίγουρος δρόμος.	The only sure way.	δρόμος		n. m. sg. ο δρόμος, pl. οι δρόμοι
+Τελικά η προσωπική κρίση.	Finally, personal judgment.	Τελικά		adv.
+Τελικά η προσωπική κρίση.	Finally, personal judgment.	προσωπική		adj. προσωπικός, -ή, -ό · f. sg.
+Τελικά η προσωπική κρίση.	Finally, personal judgment.	κρίση		n. f. sg. η κρίση, pl. οι κρίσεις
+Είναι αρσενικό.	It is masculine.	αρσενικό		adj. αρσενικός, -ή, -ό · n. sg.
+Είναι θηλυκό.	It is feminine.	θηλυκό		adj. θηλυκός, -ή, -ό · n. sg.
+Είναι ουδέτερο.	It is neuter.	ουδέτερο		adj. ουδέτερος, -η, -ο · n. sg.
+Είναι ο έρωτας.	It is love.	έρωτας		n. m. sg. ο έρωτας, pl. οι έρωτες
+Είναι τα συνώνυμα.	They are the synonyms.	συνώνυμα		n. nt. pl. το συνώνυμο, pl. τα συνώνυμα
+Είναι τα αντώνυμα.	They are the antonyms.	αντώνυμα		n. nt. pl. το αντώνυμο, pl. τα αντώνυμα
+Είναι οι στόχοι.	They are the aims.	στόχοι		n. m. pl. ο στόχος, pl. οι στόχοι
+Η περιοχή είναι μεγάλη.	The area is large.	περιοχή		n. f. sg. η περιοχή, pl. οι περιοχές
+Κόβω τα μαλλιά.	I cut the hair.	Κόβω		v. κόβω
+Ο άνθρωπος είναι κουτός.	The person is foolish.	κουτός		adj. κουτός, -ή, -ό
+Ενώνω τις λέξεις.	I join the words.	Ενώνω		v. ενώνω
+Ο άνθρωπος είναι αναίσθητος.	The person is insensitive.	αναίσθητος		adj. αναίσθητος, -η, -ο
+Ο άνθρωπος είναι ανίκανος.	The person is incapable.	ανίκανος		adj. ανίκανος, -η, -ο
+Συμφωνώ με τον άνθρωπο.	I agree with the person.	Συμφωνώ		v. συμφωνώ
+Διαφωνώ με τον άνθρωπο.	I disagree with the person.	Διαφωνώ		v. διαφωνώ
+Χωρίζω τις λέξεις.	I separate the words.	Χωρίζω		v. χωρίζω
+Ο άνθρωπος είναι θεωρητικός.	The person is theoretical.	θεωρητικός		adj. θεωρητικός, -ή, -ό
+Έχει μια ελιά.	She has a mole.	ελιά		n. f. sg. η ελιά, pl. οι ελιές
+Έχει ρυτίδες.	He has wrinkles.	ρυτίδες		n. f. pl. η ρυτίδα, pl. οι ρυτίδες
+Έχει μάγουλα.	He has cheeks.	μάγουλα		n. nt. pl. το μάγουλο, pl. τα μάγουλα
+Έχει μουστάκι.	He has a moustache.	μουστάκι		n. nt. sg. το μουστάκι, pl. τα μουστάκια
+Ο άνθρωπος είναι ψηλός.	The person is tall.	ψηλός		adj. ψηλός, -ή, -ό
+Η κοπέλα είναι ψηλή.	The girl is tall.	ψηλή		adj. ψηλός, -ή, -ό · f. sg.
+Ο άνθρωπος είναι κοντός.	The person is short.	κοντός		adj. κοντός, -ή, -ό
+Η κοπέλα είναι κοντή.	The girl is short.	κοντή		adj. κοντός, -ή, -ό · f. sg.
+Ο άνθρωπος είναι αδύνατος.	The person is slim.	αδύνατος		adj. αδύνατος, -η, -ο
+Η κοπέλα είναι αδύνατη.	The girl is slim.	αδύνατη		adj. αδύνατος, -η, -ο · f. sg.
+Ο άνθρωπος είναι μελαχρινός.	The person is dark-haired.	μελαχρινός		adj. μελαχρινός, -ή, -ό
+Η κοπέλα είναι μελαχρινή.	The girl is dark-haired.	μελαχρινή		adj. μελαχρινός, -ή, -ό · f. sg.
+Ο άνθρωπος είναι ξανθός.	The person is blond.	ξανθός		adj. ξανθός, -ή, -ό
+Η κοπέλα είναι ξανθή.	The girl is blond.	ξανθή		adj. ξανθός, -ή, -ό · f. sg.
+Ο άνθρωπος είναι όμορφος.	The person is beautiful.	όμορφος		adj. όμορφος, -η, -ο
+Η κοπέλα είναι όμορφη.	The girl is beautiful.	όμορφη		adj. όμορφος, -η, -ο · f. sg.
+Ο άνθρωπος είναι νεανικός.	The person is youthful.	νεανικός		adj. νεανικός, -ή, -ό
+Η κοπέλα είναι νεανική.	The girl is youthful.	νεανική		adj. νεανικός, -ή, -ό · f. sg.
+Ο άνθρωπος είναι κομψός.	The person is elegant.	κομψός		adj. κομψός, -ή, -ό
+Η κοπέλα είναι κομψή.	The girl is elegant.	κομψή		adj. κομψός, -ή, -ό · f. sg.
+Η κοπέλα είναι ευγενική.	The girl is polite.	ευγενική		adj. ευγενικός, -ή, -ό · f. sg.
+Η κοπέλα είναι ήρεμη.	The girl is calm.	ήρεμη		adj. ήρεμος, -η, -ο · f. sg.
+Ο άνθρωπος είναι κοινωνικός.	The person is sociable.	κοινωνικός		adj. κοινωνικός, -ή, -ό
+Η κοπέλα είναι κοινωνική.	The girl is sociable.	κοινωνική		adj. κοινωνικός, -ή, -ό · f. sg.
+Ο άνθρωπος είναι ντροπαλός.	The person is shy.	ντροπαλός		adj. ντροπαλός, -ή, -ό
+Η κοπέλα είναι ντροπαλή.	The girl is shy.	ντροπαλή		adj. ντροπαλός, -ή, -ό · f. sg.
+Ο άνθρωπος είναι αστείος.	The person is funny.	αστείος		adj. αστείος, -α, -ο
+Η κοπέλα είναι αστεία.	The girl is funny.	αστεία		adj. αστείος, -α, -ο · f. sg.
+Η κοπέλα είναι σοβαρή.	The girl is serious.	σοβαρή		adj. σοβαρός, -ή, -ό · f. sg.
+Ο άνθρωπος είναι εργατικός.	The person is hard-working.	εργατικός		adj. εργατικός, -ή, -ό
+Η κοπέλα είναι εργατική.	The girl is hard-working.	εργατική		adj. εργατικός, -ή, -ό · f. sg.
+Η κοπέλα είναι έξυπνη.	The girl is clever.	έξυπνη		adj. έξυπνος, -η, -ο · f. sg.
+Ο άνθρωπος είναι αισιόδοξος.	The person is optimistic.	αισιόδοξος		adj. αισιόδοξος, -η, -ο
+Η κοπέλα είναι αισιόδοξη.	The girl is optimistic.	αισιόδοξη		adj. αισιόδοξος, -η, -ο · f. sg.
+Ο άνθρωπος είναι δημιουργικός.	The person is creative.	δημιουργικός		adj. δημιουργικός, -ή, -ό
+Η κοπέλα είναι δημιουργική.	The girl is creative.	δημιουργική		adj. δημιουργικός, -ή, -ό · f. sg.
+Ο άνθρωπος είναι νέος.	The person is young.	νέος		adj. νέος, -α, -ο
+Ο άνθρωπος είναι ηλικιωμένος.	The person is elderly.	ηλικιωμένος		adj. ηλικιωμένος, -η, -ο
+Ο άνθρωπος είναι άσχημος.	The person is ugly.	άσχημος		adj. άσχημος, -η, -ο
+Η κοπέλα είναι άσχημη.	The girl is ugly.	άσχημη		adj. άσχημος, -η, -ο · f. sg.
+Το πρόσωπο είναι χλωμό.	The face is pale.	χλωμό		adj. χλωμός, -ή, -ό · n. sg.
+Τα μάτια είναι μεγάλα.	The eyes are large.	μεγάλα		adj. μεγάλος, -η, -ο · n. pl.
+Τα μάτια είναι μικρά.	The eyes are small.	μικρά		adj. μικρός, -ή, -ό · n. pl.
+Οι ανταύγειες είναι μακριές.	The highlights are long.	μακριές		adj. μακρύς, -ιά, -ύ · f. pl.
+Οι ανταύγειες είναι κοντές.	The highlights are short.	κοντές		adj. κοντός, -ή, -ό · f. pl.
+Ο άνθρωπος είναι γέρος.	The person is an old man.	γέρος		n. m. sg. ο γέρος, pl. οι γέροι
+Ο άνθρωπος διαβάζει και η κοπέλα γράφει.	The man reads and the girl writes.	και		conj.
+Ο άλλος άνθρωπος.	The other person.	άλλος		pron. m. sg. nom.
+Η άλλη κοπέλα.	The other girl.	άλλη		pron. f. sg. nom.
+Είναι το επόμενο.	It is the next one.	επόμενο		adj. επόμενος, -η, -ο · n. sg.
+Πρώτα γράφει και μετά διαβάζει.	First she writes, and next she reads.	μετά		adv.
+Πρώτα γράφει και έπειτα διαβάζει.	First she writes, and then she reads.	έπειτα		adv.
+Πριν γράψει, διαβάζει.	Before she writes, she reads.	Πριν		prep.
+Πρώτα διαβάζει και μετά γράφει.	First she reads, and next she writes.	Πρώτα		adv.
+Ο άνθρωπος διαβάζει, αλλά η κοπέλα γράφει.	The man reads, but the girl writes.	αλλά		conj.
+Ο άνθρωπος διαβάζει, όμως η κοπέλα γράφει.	The man reads; however, the girl writes.	όμως		conj.
+Θυμώνει όταν μαλώνει.	He gets angry when he argues.	όταν		conj.
+Αν θυμώνει, μαλώνει.	If he gets angry, he argues.	Αν		conj.
+Ο άνθρωπος διαβάζει ενώ η κοπέλα γράφει.	The man reads while the girl writes.	ενώ		conj.
+Αφού γράψει, διαβάζει.	After she writes, she reads.	Αφού		conj.
+Διαβάζει ώστε να γράψει καλά.	She reads so that she writes well.	ώστε		conj.
+Θυμώνει, λοιπόν μαλώνει.	He gets angry, so he argues.	λοιπόν		adv.
+Διαβάζει και έτσι γράφει καλά.	She reads, and so she writes well.	έτσι		adv.
+Διαβάζει και επίσης γράφει.	She reads, and she also writes.	επίσης		adv.
+Θα διαβάσετε τα μυστικά της καρδιάς και της ψυχής.	You will read the secrets of the heart and of the soul.	μυστικά		n. nt. pl. το μυστικό, pl. τα μυστικά
+Θα διαβάσετε τα μυστικά της καρδιάς και της ψυχής.	You will read the secrets of the heart and of the soul.	διαβάσετε		v. διαβάζω · 2 pl.
